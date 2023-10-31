@@ -1,10 +1,10 @@
 ---
 title: "A Learning-Based Framework for Safe Human-Robot Collaboration with Multiple Backup Control Barrier Functions"
 collection: publications
-permalink: 
+permalink: 'https://arxiv.org/abs/2310.05865'
 excerpt: 
 date: 2023-10-09
-venue: 'Journal 1'
+venue:
 paperurl: 'https://arxiv.org/abs/2310.05865'
 citation: 
 ---
