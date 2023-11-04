@@ -3,7 +3,7 @@ title: "Towards Flexible and Lightweight Ankle Exoskeletons via Anterior-Mounted
 collection: publications
 permalink:
 excerpt: 
-date: TBA
+date: 2023-10-10
 venue: 'currently in progress'
 paperurl: 
 link: 
