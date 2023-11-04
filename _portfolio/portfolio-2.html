@@ -1,30 +1,20 @@
 ---
-title: "Python Quadruped Planning"
-excerpt: "Short description of portfolio item number 2 <br/><img width='500' src='/images/quadruped_walking.png'>"
+title: "D* Computation Complexity Analysis"
+excerpt: "Short description of portfolio item number 2 <br/><img width='500' src='/images/dstar_simple.png'>"
 collection: portfolio
 ---
 
-For a quadruped robot, path planning presents a unique challenge. For an
-autonomous car, one needs to consider constraints like the size of the robot for
-avoiding obstacles and wheel size for turning radius. Compared to these systems,
-a quadruped contains more choices for a single action due to the high number of
-DOFs in the system. For example, a quadruped requires one to plan foot placement
-when moving from one location to another, which must be repeated for each leg,
-as well as assigning specific locations to four legs within areas of possible
-placement. Thus, it is easy to see that the dimensionality of the problem
-increases greatly along with the complexity of a local planner, thus requiring
-unique planning methods. This project seeks to implement a path planning
-algorithm for a quadruped robot on a simplified terrain model consisting of
-discrete allowed foot locations (“pegs”) with motion constrained by leg lengths
-and geometry. In this video, we discuss the implementation of a hierarchical
-planner for navigating this quadruped over terrain with both random and 
-patterned valid foot placements.
+For a path planning system, one must consider the myriad of trade-offs when
+selecting the algorithmic approach to navigating your environment. Your approach
+is also heavily dependent on your prior knowledge of the map and the ability to
+detect any unexpected discrepancies in the map. As such, in this report, we will
+explore these very trade-offs with the following algorithms: Dijkstra, A*, and
+D*. This exploration will be conducted in partially known environments where
+obstacles are discovered as the robot executes the planned path; consequently
+replanning needs to occur in order to navigate the robot to completely to the 
+goal.
 
-<iframe width="800" height="448"
-src="https://www.youtube.com/embed/IaI35O8sK78">
-</iframe>
- 
-<iframe src= "/files/CS133b_Project_Report.pdf" 
+<iframe src= "/files/CDS_234a_Final_Project.pdf" 
         width="800"
         height="500"> 
 </iframe> 

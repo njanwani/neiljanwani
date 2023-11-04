@@ -1,0 +1,30 @@
+---
+title: "Python Quadruped Planning"
+excerpt: "Short description of portfolio item number 2 <br/><img width='500' src='/images/quadruped_walking.png'>"
+collection: portfolio
+---
+
+For a quadruped robot, path planning presents a unique challenge. For an
+autonomous car, one needs to consider constraints like the size of the robot for
+avoiding obstacles and wheel size for turning radius. Compared to these systems,
+a quadruped contains more choices for a single action due to the high number of
+DOFs in the system. For example, a quadruped requires one to plan foot placement
+when moving from one location to another, which must be repeated for each leg,
+as well as assigning specific locations to four legs within areas of possible
+placement. Thus, it is easy to see that the dimensionality of the problem
+increases greatly along with the complexity of a local planner, thus requiring
+unique planning methods. This project seeks to implement a path planning
+algorithm for a quadruped robot on a simplified terrain model consisting of
+discrete allowed foot locations (“pegs”) with motion constrained by leg lengths
+and geometry. In this video, we discuss the implementation of a hierarchical
+planner for navigating this quadruped over terrain with both random and 
+patterned valid foot placements.
+
+<iframe src="https://www.youtube.com/embed/IaI35O8sK78"
+        width="800">
+</iframe>
+<br/>
+<iframe src= "/files/CS133b_Project_Report.pdf" 
+        width="800"
+        height="500"> 
+</iframe> 
