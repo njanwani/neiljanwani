@@ -1,12 +1,12 @@
 ---
-title: "A Learning-Based Framework for Safe Human-Robot Collaboration with Multiple Backup Control Barrier Functions"
+title: "Towards Flexible and Lightweight Ankle Exoskeletons via Anterior-Mounted Handed Shearing Auxetics"
 collection: publications
 permalink:
 excerpt: 
-date: 2023-10-09
-venue: '(preprint) arXiv'
-paperurl: 'https://arxiv.org/abs/2310.05865'
-link: 'https://arxiv.org/abs/2310.05865'
+date: 2023-10-10
+venue: 'currently in progress'
+paperurl: 
+link: 
 citation: 
 ---
-Ensuring robot safety in complex environments is a difficult task due to actuation limits, such as torque bounds. This paper presents a safety-critical control framework that leverages learning-based switching between multiple backup controllers to formally guarantee safety under bounded control inputs while satisfying driver intention. By leveraging backup controllers designed to uphold safety and input constraints, backup control barrier functions (BCBFs) construct implicitly defined control invariance sets via a feasible quadratic program (QP). However, BCBF performance largely depends on the design and conservativeness of the chosen backup controller, especially in our setting of human-driven vehicles in complex, e.g, off-road, conditions. While conservativeness can be reduced by using multiple backup controllers, determining when to switch is an open problem. Consequently, we develop a broadcast scheme that estimates driver intention and integrates BCBFs with multiple backup strategies for human-robot interaction. An LSTM classifier uses data inputs from the robot, human, and safety algorithms to continually choose a backup controller in real-time. We demonstrate our method's efficacy on a dual-track robot in obstacle avoidance scenarios. Our framework guarantees robot safety while adhering to driver intention.
+Recent advancements in flexible materials provide potential mechanisms towards transforming powered ankle exoskeletons from being heavy and rigid towards being lightweight and flexible. Specifically, this work presents a novel ankle exoskeleton that utilizes a pair of handed shearing auxetics coupled with compression springs. This flexible mechanism converts rotation into a linear displacement, effectively changing the stiffness of the spring during the walking gait. By controlling this stiffness properly, the ankle exoskeleton achieves lower muscle activity during toe push-off. 
