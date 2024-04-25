@@ -1,26 +1,26 @@
 ---
-title: "Robot exploration"
-excerpt: "Occurpancy grid-based exploration algorithm via optimizing for information gain and cost-to-go for ME/CDS 234b <em>Advanced Robotics: Planning</em><br/><img width='500' src='/images/image4380.png'>"
+title: "ROS Quadruped Demonstration"
+excerpt: "ROS kinematic demonstration of 30-DOF quadruped, designed in Solidworks, ME/EE/CS 133a: <em>Robotics: Kinematics</em> <br/><img width='500' src='/images/CAD_scrat.png'>"
 collection: portfolio
 ---
 
-Much of classical robotics is framed as a start-goal problem. These problems are
-aimed at guiding a robot in a partially or fully known environment to a 
-pre-determined start and goal-ultimately becoming a graph-search problem
-However, these problems do not encompass all the scenarios encountered by robots.
-For instance, robots designed for search and rescue may need to plan in unknown 
-environments where random variables dictate the reliability of robot sensors.
-Thus, arguably an equally important problem in robotics is exploration. In other
-words, given an unknown map and unreliable sensor readings, can a robot follow a
-somewhat efficient trajectory to build the correct map?
+Quadruped locomotion presents a challenge in that it requires manipulating and
+coordinating four independent appendages which combine in a robot with a large
+number of DOFs. Such a task expands on concepts we learned in class this term,
+such as driving lone arms, dealing with rigid obstacles, and using secondary
+tasks to manipulate within the null space of our kinematic chain. This project
+seeks to implement and control a quadruped robot within ROS’s Rviz to walk with
+a generalized gait and maneuver in-place. In this paper, we create a URDF for
+our quadruped, formulate our kinematic chains through which to control the
+robot, and ultimately explore our goals of walking and maneuvering using various
+trajectories while visualizing in Rviz.
 
-<iframe src="https://www.youtube.com/embed/2pW5KKsdpDo"
-        height="450"
-        width="800">
-
+<iframe src="https://www.youtube.com/embed/jK0LnaKU_8I"
+        width="800"
+        height="450">
 </iframe>
 <br/>
-<iframe src= "/files/234b_final.pdf" 
+<iframe src= "/files/CS133a_Project_Report.pdf" 
         width="800"
-        height="700"> 
+        height="500"> 
 </iframe> 
