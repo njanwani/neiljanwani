@@ -8,10 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Neil, a senior computer science major studying robotics and machine
-learning at Caltech. Broadly, I want to develop machine learning and
-safety-critical control for semi-autonomous robotics within human environments.
+Hello! I'm Neil, an incoming robotics PhD student at Georgia Tech. There, 
+I will work with [Prof. Maegan Tucker](https://maegantucker.com/) at the [Dynamo Lab](https://dynamicmobility.github.io/) under the NSF and IRIM 
+fellowships. Previously, I completed my undergraduate at Caltech, working with
+Prof. Joel Burdick and Prof. Aaron Ames on assistive robotics and intention-aware
+safety-critical control. 
 
+Broadly, I want to develop human-robot teams that can think, act, and recover
+in real-world dynamic enviornments. Below, I have included a concise summary of
+my past work. However, please browse my [publications](https://njanwani.github.io/publications/) and [portfolio](https://njanwani.github.io/portfolio/) pages for
+more information.
+
+My past work
+======
+t.b.d....
+<!-- 
 My interests
 ======
 My research interests include *human robot interaction*, *human-in-the-loop
@@ -46,4 +57,4 @@ I also teach robotics at Caltech, with a specific interest in increasing accessi
 to robotics in my community. To accomplish this, I have designed and taught a course on
 robotic prototyping for research, and implemented a diversity, equity, and inclusion (DEI)
 robotics course. I am also a teaching assistant for several robotics and computer science
-courses at Caltech.
+courses at Caltech. -->
