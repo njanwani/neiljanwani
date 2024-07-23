@@ -8,21 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Neil, an incoming robotics PhD student at Georgia Tech. There, 
-I will work with [Prof. Maegan Tucker](https://maegantucker.com/) at the [Dynamo Lab](https://dynamicmobility.github.io/) under the NSF and IRIM 
-fellowships. Previously, I completed my undergraduate at Caltech, working with
-Prof. Joel Burdick and Prof. Aaron Ames on assistive robotics and intention-aware
-safety-critical control. 
+I am a first-year doctoral student at Georgia Tech ([IRIM](https://research.gatech.edu/robotics)) 
+in Prof. Maegan Tucker's [Dynamo Lab](https://dynamicmobility.github.io/) under 
+the IRIM and NSF fellowships. Broadly, I want to develop human-robot teams that 
+can think, act, and recover in real-world dynamic enviornments. To this end, I draw
+upon methods in ML/AI, control theory, and classical robotics. Please browse my
+[publications](https://njanwani.github.io/publications/) and [portfolio](https://njanwani.github.io/portfolio/)
+pages for more information on my work in exoskeletons, assistive/autonomous driving, 
+arms, and more!
 
-Broadly, I want to develop human-robot teams that can think, act, and recover
-in real-world dynamic enviornments. Below, I have included a concise summary of
-my past work. However, please browse my [publications](https://njanwani.github.io/publications/) and [portfolio](https://njanwani.github.io/portfolio/) pages for
-more information.
+Previously, I completed my B.S. in Computer Science at Caltech, working with Prof.
+Joel Burdick and Prof. Aaron Ames on assistive robotics and intention-aware
+safety-critical control. In my free time, I like to ski, make music, and build
+RC vehicles.
 
+<!-- 
 My past work
 ======
 t.b.d....
-<!-- 
 My interests
 ======
 My research interests include *human robot interaction*, *human-in-the-loop
