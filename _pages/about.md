@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am a first-year doctoral student at Georgia Tech ([IRIM](https://research.gatech.edu/robotics)) 
-in Prof. Maegan Tucker's [Dynamo Lab](https://dynamicmobility.github.io/), supported bys 
-the IRIM and NSF fellowships. Broadly, I want to develop human-robot teams that 
+in the [Dynamic Mobility Lab](https://dynamicmobility.github.io/), supported by
+the IRIM and NSF fellowships and advised by Prof. [Maegan Tucker](https://maegantucker.com/). Broadly, I want to develop human-robot teams that 
 can think, act, and recover in real-world dynamic enviornments. To this end, I draw
 upon methods in ML/AI, control theory, and classical robotics. Please browse my
 [publications](https://njanwani.github.io/publications/) and [portfolio](https://njanwani.github.io/portfolio/)
@@ -22,8 +22,8 @@ Joel Burdick and Prof. Aaron Ames on assistive robotics and intention-aware
 safety-critical control. In my free time, I like to ski, make music, and build
 RC vehicles.
 
-My past work
-======
+<!-- My past work
+====== -->
 <!-- 
 t.b.d....
 My interests

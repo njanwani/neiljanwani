@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "Neil Janwani"
   avatar           : "pfp.jpg"
-  bio              : "Fourth-year undergraduate at Caltech majoring
-                      in computer science and robotics."
-  location         : "Pasadena, California"
+  bio              : "Robotics PhD student in the Dynamic Mobility Lab at Georgia Tech researchin human robot interaction."
+  location         : "Atlanta, Georgia"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=AsKA0H4AAAAJ&hl=en"
-  email            : "njanwani@caltech.edu"
+  email            : "njanwani@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
