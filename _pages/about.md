@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+Welcome!
+======
 I am a first-year doctoral student at Georgia Tech ([IRIM](https://research.gatech.edu/robotics)) 
 in the [Dynamic Mobility Lab](https://dynamicmobility.github.io/), supported by
 the IRIM and NSF fellowships and advised by Prof. [Maegan Tucker](https://maegantucker.com/). Broadly, I want to develop human-robot teams that 
